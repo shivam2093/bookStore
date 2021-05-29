@@ -1,0 +1,29 @@
+.img-fluid {
+  margin-left: 30%;
+}
+
+.food {
+  font-size: 15px;
+  overflow: hidden;
+  margin-top: 5%;
+  flex-direction: row;
+}
+
+#food {
+  font-size: 30px;
+  float: left;
+}
+#word {
+  font-size: 30px;
+}
+
+.book {
+  padding: 5px;
+  border-radius: 5px 0 0 5px;
+  margin: 0 -5px 0;
+  width: 200px;
+  color: #333;
+  font-style: italic;
+  width: 250px;
+  height: 23px;
+}

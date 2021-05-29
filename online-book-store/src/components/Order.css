@@ -1,0 +1,9 @@
+.card-container {
+  width: 250px;
+  border: 0.5px solid rgba(0, 0, 0, -125);
+  margin: 0 auto;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-direction: row;
+  border-width: 1px;
+}

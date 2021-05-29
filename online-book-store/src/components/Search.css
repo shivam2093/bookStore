@@ -1,0 +1,19 @@
+input {
+  width: 150px;
+  padding: 5px;
+  font-size: 1em;
+  color: black;
+}
+
+button {
+  width: 150px;
+  padding: 5px;
+  font-size: 1em;
+  color: wheat;
+  background-color: cadetblue;
+}
+
+select {
+  width: 150px;
+  padding: 5px;
+}

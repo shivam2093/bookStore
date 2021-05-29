@@ -1,0 +1,29 @@
+.card-container {
+  width: 250px;
+  border: 0.5px solid rgba(0, 0, 0, -125);
+  margin: 0 auto;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-direction: row;
+  border-width: 1px;
+}
+
+.desc {
+  height: 180px;
+}
+
+.desc h2 {
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.desc h3,
+p {
+  font-weight: 400;
+}
+
+.desc h3 {
+  color: black;
+  font-size: 1em;
+  padding: 0 10px 0;
+}

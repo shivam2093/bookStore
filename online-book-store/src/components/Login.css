@@ -1,0 +1,39 @@
+#appname {
+}
+
+.logo {
+  margin-left: 1%;
+  font-size: 150%;
+  display: flex;
+  flex-direction: column;
+}
+
+.input_user {
+  align-items: center;
+}
+.login_form {
+  margin-top: 3%;
+  width: 500px;
+  display: flex;
+  height: 30%;
+  flex-direction: column;
+  padding: 20px;
+  border: 1px solid lightgray;
+}
+
+#loglogout {
+  margin-top: 5%;
+  display: flex;
+  flex-direction: column;
+}
+
+.login {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer {
+  position: "-ms-page";
+}
